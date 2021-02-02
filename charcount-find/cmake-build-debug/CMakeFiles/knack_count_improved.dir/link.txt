@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/knack_count_improved.dir/main.c.o  -o knack_count_improved 

@@ -1,0 +1,3 @@
+/home/linus/logopraxis-wort-generator/knack-count-improved/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/linus/logopraxis-wort-generator/knack-count-improved/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/linus/logopraxis-wort-generator/knack-count-improved/cmake-build-debug/CMakeFiles/knack_count_improved.dir
