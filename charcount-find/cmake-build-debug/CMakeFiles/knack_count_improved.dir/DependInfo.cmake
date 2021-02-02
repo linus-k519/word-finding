@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/linus/logopraxis-wort-generator/knack-count-improved/main.c" "/home/linus/logopraxis-wort-generator/knack-count-improved/cmake-build-debug/CMakeFiles/knack_count_improved.dir/main.c.o"
+  "/home/linus/logopraxis-wort-generator/charcount-find/main.c" "/home/linus/logopraxis-wort-generator/charcount-find/cmake-build-debug/CMakeFiles/knack_count_improved.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/home/linus/logopraxis-wort-generator/knack-count-improved/main.c
+/home/linus/logopraxis-wort-generator/charcount-find/main.c
 stdio.h
 -
 stdlib.h
 -
 string.h
+-
+time.h
+-
+unistd.h
 -
 
